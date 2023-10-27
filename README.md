@@ -3,7 +3,7 @@
 [![](https://img.shields.io/github/downloads/andylizi/haproxy-detector/total?style=for-the-badge)](https://github.com/andylizi/haproxy-detector/releases) [![](https://img.shields.io/github/license/andylizi/haproxy-detector?style=for-the-badge)](https://github.com/andylizi/haproxy-detector/blob/master/LICENSE) [![](https://img.shields.io/bstats/servers/12604?label=Spigot%20Servers&style=for-the-badge)](https://bstats.org/plugin/bukkit/HAProxyDetector/12604) [![](https://img.shields.io/bstats/servers/12605?label=BC%20Servers&style=for-the-badge)](https://bstats.org/plugin/bungeecord/HAProxyDetector/12605) [![](https://img.shields.io/bstats/servers/14442?label=Velocity%20Servers&style=for-the-badge)](https://bstats.org/plugin/velocity/HAProxyDetector/14442)
 
 This [BungeeCord](https://github.com/SpigotMC/BungeeCord/) (and now [Spigot](https://www.spigotmc.org/wiki/spigot/)
-and [Velocity](https://velocitypowered.com/)) plugin enables proxied and direct connections both at the same time. More
+and [Velocity](https://papermc.io/software/velocity/)) plugin enables proxied and direct connections both at the same time. More
 infomation about [HAProxy](https://www.haproxy.org/) and its uses can be
 found [here](https://github.com/MinelinkNetwork/BungeeProxy/blob/master/README.md).
 
