@@ -28,4 +28,5 @@ Thumbs.db
 
 # IDEA
 .idea/
+*.iml
 *.iws
